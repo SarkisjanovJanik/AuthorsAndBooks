@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.authorsandbooksapp.service.AuthorServiceTest" tests="8" skipped="0" failures="0" errors="0" timestamp="2023-10-18T11:15:06" hostname="DESKTOP-C79ULR5" time="0.464">
+  <properties/>
+  <testcase name="testGetAllAuthors()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.399"/>
+  <testcase name="testDeleteAuthor_ThrowsNotFoundException()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.012"/>
+  <testcase name="testUpdateAuthor()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.01"/>
+  <testcase name="testDeleteAuthor()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.016"/>
+  <testcase name="testGetAuthorById()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.004"/>
+  <testcase name="testAddAuthor()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.003"/>
+  <testcase name="testUpdateAuthor_ThrowsNotFoundException()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.004"/>
+  <testcase name="testGetAuthorById_ThrowsNotFoundException()" classname="com.authorsandbooksapp.service.AuthorServiceTest" time="0.004"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
